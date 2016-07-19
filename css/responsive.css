@@ -1,0 +1,644 @@
+@media screen and (max-width: 1200px) and (min-width: 993px) {
+	
+/*----------UNIVERSAL STYLES----------*/
+
+	.container {
+		width: 970px;
+		margin: 0 auto;
+	}
+
+/*----------END UNIVERSAL STYLES----------*/
+
+/*----------SERVICE STYLES----------*/
+
+	.service-header {
+	    width: 33%;
+	}
+
+	.service-sections {
+		margin-bottom: 50px;
+		padding-left: 200px;
+	}
+
+	.section {
+	    margin-bottom: 30px;
+	}
+
+/*----------END SERVICE STYLES----------*/
+
+/*----------PROCESS STYLES----------*/
+	.process-header {
+		width: 33%;
+	}
+
+	.process-sections {
+		margin-left: 10px;
+	}
+
+	.process-section_first,
+	.section_last {
+		margin-left: 0;
+		margin-right: 0;
+	}
+
+	.process-section-line {
+		width: 150px;
+	}
+
+	.process-section-describe {
+		margin-left: 0;
+	}
+
+	.process-section-text {
+		margin-right: 157px;
+	}
+
+	.process-section-text_last {
+		margin-right: 0;
+	}
+
+/*----------END PROCESS STYLES----------*/
+
+/*----------RECENT STYLES----------*/
+
+	.recent-header {
+		width: 41%;
+	}
+
+	.recent-projects-block {
+		margin-left: calc(50% - 370px);
+	}
+
+	.recent-projects-block_center {
+		margin: 0 0 0 30px;
+	}
+
+	.recent-projects-block_last {
+	    margin-left: calc(50% - 370px / 2);
+	}
+
+/*----------END RECENT STYLES----------*/
+
+/*----------TESTIMONIALS STYLES----------*/
+
+	.testimonials-header {
+		width: 46%;
+	}
+
+/*----------END TESTIMONIALS STYLES----------*/
+
+/*----------JOURNAL STYLES----------*/
+
+	.journal-header {
+		width: 38%;
+	}
+
+	.journal-section {
+		margin-left: calc(50% - 370px);
+	}
+
+	.journal-section_center {
+		margin: 0 0 0 30px;
+	}
+
+	.journal-section_last {
+		margin-left: calc(50% - 370px / 2);
+	}
+
+/*----------END JOURNAL STYLES----------*/
+
+/*----------FOOTER STYLES----------*/
+
+	.footer-sections {
+		margin-left: calc(50% - 520px / 2);
+	}
+
+	.footer-section {
+		padding-bottom: 0;
+		height: 251px;
+	}
+
+	.footer-section_last {
+		padding-top: 70px;
+	}
+
+/*----------END FOOTER STYLES----------*/
+}
+
+@media screen and (max-width: 992px) and (min-width: 769px) {
+/*----------UNIVERSAL STYLES----------*/
+
+	.container {
+		width: 750px;
+		margin: 0 auto;
+	}
+
+/*----------END UNIVERSAL STYLES----------*/
+
+/*----------INTRO STYLES----------*/
+	.intro-slider-content {
+		position: absolute;
+		bottom: 17px;
+	}
+
+/*----------END INTRO STYLES----------*/
+
+/*----------SERVICE STYLES----------*/
+
+	.service-header {
+	    width: 42%;
+	}
+
+	.service-sections {
+		margin-bottom: 50px;
+		padding-left: 88px;
+	}
+
+	.section {
+	    margin-bottom: 30px;
+	}
+
+/*----------END SERVICE STYLES----------*/
+
+/*----------PROCESS STYLES----------*/
+	.process-header {
+		width: 43%;
+	}
+
+	.process-sections {
+		margin-left: 0;
+	}
+
+	.process-section_first,
+	.section_last {
+		margin-left: 0;
+		margin-right: 0;
+	}
+
+	.process-section-line {
+		width: 84px;
+	}
+
+	.process-section-describe {
+		margin-left: 0;
+	}
+
+	.process-section-text {
+		margin-right: 84px;
+	}
+
+	.process-section-text_last {
+		margin-right: 0;
+	}
+
+/*----------END PROCESS STYLES----------*/
+
+/*----------RECENT STYLES----------*/
+
+	.recent-header {
+		width: 52%;
+	}
+
+	.recent-projects-block,
+	.recent-projects-block_center,
+	.recent-projects-block_last {
+		margin-left: calc(50% - 370px / 2);
+	}
+
+/*----------END RECENT STYLES----------*/
+
+/*----------TESTIMONIALS STYLES----------*/
+
+	.testimonials-header {
+		width: 60%;
+	}
+
+/*----------END TESTIMONIALS STYLES----------*/
+
+/*----------JOURNAL STYLES----------*/
+
+	.journal-header {
+		width: 49%;
+	}
+
+	.journal-section,
+	.journal-section_center,
+	.journal-section_last {
+		margin-left: calc(50% - 370px / 2);
+	}
+
+/*----------END JOURNAL STYLES----------*/
+
+/*----------FOOTER STYLES----------*/
+
+	.footer-sections {
+		margin-left: calc(50% - 520px / 2);
+	}
+
+	.footer-section {
+		padding-bottom: 0;
+		height: 251px;
+	}
+
+	.footer-section_last {
+		padding-top: 70px;
+	}
+
+/*----------END FOOTER STYLES----------*/
+}
+
+@media screen and (max-width: 768px) and (min-width: 480px) {
+
+/*----------UNIVERSAL STYLES----------*/
+
+	.container {
+		width: auto;
+		margin: 0 auto;
+	}
+
+/*----------END UNIVERSAL STYLES----------*/
+
+/*----------HEADER STYLES----------*/
+	.header-logo {
+		margin: calc(50% - 52px / 2);
+	}
+
+	.slicknav_menu {
+		display: block;
+	}
+
+	.navbar-list {
+		display: none;
+	}
+
+	.navbar-list-item {
+		margin-right: -14px;
+	}
+
+/*----------END HEADER STYLES----------*/
+
+/*----------INTRO STYLES----------*/
+
+	.intro-text {
+		text-align: center;
+	} 
+
+	.intro-slider-content {
+		position: absolute;
+		bottom: 17px;
+	}
+
+	.intro-slider-content-header,
+	.intro-slider-content-text {
+		height: 32px;
+		line-height: 32px;
+	}
+
+	.intro-slider-content-header {
+		width: 320px;
+		font-size: 18px;
+	}
+
+	.intro-slider-content-text {
+		width: 380px;
+		font-size: 15px;
+	}
+
+/*----------END INTRO STYLES----------*/
+
+/*----------SERVICE STYLES----------*/
+
+	.service-header {
+		width: auto;
+		margin-left: calc(50% - 270px / 2);
+	}
+
+	.service-sections {
+		margin-bottom: 50px;
+		margin-left: calc(50% - 240px / 2);
+	}
+
+	.section {
+	    margin-bottom: 30px;
+	}
+
+/*----------END SERVICE STYLES----------*/
+
+/*----------PROCESS STYLES----------*/
+
+	.process-header {
+		width: auto;
+		margin-left: calc(50% - 320px / 2);
+	}
+
+	.process-text {
+	    padding: 0 90px 47px;
+	}
+
+	.process-sections {
+		width: auto;
+		margin-left: calc(50% - 463px / 2);
+	}
+
+	.process-section {
+		margin-right: 29px; 
+	}
+
+	.process-section_first {
+		margin-left: 0;
+		margin-right: 29px;
+	}
+
+	.section_last {
+		margin-right: 0;
+	}
+
+	.process-section-line {
+		display: none;
+	}
+
+	.process-section-describe {
+		width: auto;
+		margin-left: calc(50% - 463px / 2);
+	}
+
+	.process-section-text {
+		width: 100px;
+		margin-right: 21px;
+	}
+
+	.process-section-text_last {
+		margin-right: 0;
+	}
+
+/*----------END PROCESS STYLES----------*/
+
+/*----------RECENT STYLES----------*/
+
+	.recent-header {
+		width: auto;
+		margin-left: calc(50% - 392px / 2);
+	}
+
+	.recent-projects-block,
+	.recent-projects-block_center,
+	.recent-projects-block_last {
+		margin-left: calc(50% - 370px / 2);
+	}
+
+/*----------END RECENT STYLES----------*/
+
+/*----------TESTIMONIALS STYLES----------*/
+
+	.testimonials-header {
+		width: auto;
+		margin-left: calc(50% - 450px / 2);
+		padding-top: 50px;
+	}
+
+/*----------END TESTIMONIALS STYLES----------*/
+
+/*----------JOURNAL STYLES----------*/
+
+	.journal-header {
+		width: auto;
+		margin-left: calc(50% - 368px / 2);
+	}
+
+	.journal-section,
+	.journal-section_center,
+	.journal-section_last {
+		margin-left: calc(50% - 370px / 2);
+	}
+
+/*----------END JOURNAL STYLES----------*/
+
+/*----------FOOTER STYLES----------*/
+
+	.footer-sections {
+		margin-left: calc(50% - 225px / 2);
+	}
+
+	.footer-section {
+		padding-top: 30px;
+		padding-bottom: 0;
+	}
+
+	.footer-section_last {
+		padding-top: 30px;
+		margin-bottom: 50px;
+	}
+
+/*----------END FOOTER STYLES----------*/
+
+/*----------COPYRIGHT STYLES----------*/
+
+	.copyright-text {
+		text-align: center;
+	}
+
+/*----------END COPYRIGHT STYLES----------*/
+
+}
+
+@media screen and (max-width: 479px) and (min-width: 320px) {
+
+/*----------UNIVERSAL STYLES----------*/
+
+	.container {
+		width: auto;
+		margin: 0 auto;
+	}
+
+/*----------END UNIVERSAL STYLES----------*/
+
+/*----------HEADER STYLES----------*/
+	.header-logo {
+		margin: calc(50% - 52px / 2);
+	}
+
+	.slicknav_menu {
+		display: block;
+	}
+
+	.navbar-list {
+		display: none;
+	}
+
+	.navbar-list-item {
+		float: left;
+		display: block;
+		margin-left: calc(50% - 93px / 2);
+		text-align: justify;
+	}
+
+/*----------END HEADER STYLES----------*/
+
+/*----------INTRO STYLES----------*/
+
+	.intro-text {
+		text-align: center;
+	} 
+
+	.intro-slider {
+		display: none;
+	}
+
+/*----------END INTRO STYLES----------*/
+
+/*----------SERVICE STYLES----------*/
+
+	.service-header {
+		width: auto;
+		margin-left: calc(50% - 321px / 2);
+	}
+
+	.service-sections {
+		margin-bottom: 50px;
+		margin-left: calc(50% - 270px / 2);
+	}
+
+	.section {
+	    margin-bottom: 30px;
+	}
+
+/*----------END SERVICE STYLES----------*/
+
+/*----------PROCESS STYLES----------*/
+
+	.process-header {
+		width: auto;
+		margin-left: calc(50% - 328px / 2);
+	}
+
+	.process-text {
+	    padding: 0 50px 47px;
+	}
+
+	.process-sections {
+		width: auto;
+		margin-left: calc(50% - 228px / 2);
+	}
+
+	.process-section {
+		margin-right: 29px; 
+		margin-bottom: 30px;
+	}
+
+	.process-section_first {
+		margin-left: 0;
+		margin-right: 29px;
+	}
+
+	.section_last {
+		margin-right: 0;
+	}
+
+	.process-section-line {
+		display: none;
+	}
+
+	.process-section-describe {
+		display: none;
+	}
+
+/*----------END PROCESS STYLES----------*/
+
+/*----------RECENT STYLES----------*/
+
+	.recent-header {
+		width: auto;
+		margin-left: calc(50% - 238px / 2);
+	}
+
+	.recent-header-line {
+		display: none;
+	}
+
+	.recent-projects-block,
+	.recent-projects-block_center,
+	.recent-projects-block_last {
+		width: 100%;
+		margin: 0;
+		padding: 0;
+	}
+
+	.recent-projects-block-img {
+		width: 100%;
+	}
+
+/*----------END RECENT STYLES----------*/
+
+/*----------TESTIMONIALS STYLES----------*/
+
+	.testimonials {
+		display: none;
+	}
+
+/*----------END TESTIMONIALS STYLES----------*/
+
+/*----------JOURNAL STYLES----------*/
+
+	.journal-header {
+		width: auto;
+		margin: 0;
+		margin-left: calc(50% - 210px / 2);
+		margin-bottom: 20px;
+	}
+
+	.journal-header-line {
+		display: none;
+	}
+
+	.journal-section,
+	.journal-section_center,
+	.journal-section_last {
+		width: 100%;
+		margin: 0;
+	}
+
+	.journal-section-img {
+		width: 100%;
+	}
+
+	.journal-section-header-link {
+		font-size: 12px;
+	}
+
+	.journal-section-calendar {
+		margin-left: 10px;
+	}
+
+	.journal-text {
+		margin-left: 5px;
+	}
+
+/*----------END JOURNAL STYLES----------*/
+
+/*----------FOOTER STYLES----------*/
+
+	.footer-sections {
+		margin-left: calc(50% - 252px / 2);
+	}
+
+	.footer-section {
+		padding-top: 30px;
+		padding-bottom: 0;
+	}
+
+	.footer-section_last {
+		padding-top: 30px;
+		margin-bottom: 50px;
+	}
+
+/*----------END FOOTER STYLES----------*/
+
+/*----------COPYRIGHT STYLES----------*/
+
+	.copyright-text {
+		text-align: center;
+	}
+
+/*----------END COPYRIGHT STYLES----------*/
+
+}
