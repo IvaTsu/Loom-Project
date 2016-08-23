@@ -1,2 +1,2 @@
 # Loom-Project
-Fully adaptive landing page
+Fully responsive landing page
