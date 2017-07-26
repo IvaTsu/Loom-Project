@@ -1,5 +1,5 @@
 @media screen and (max-width: 1200px) and (min-width: 993px) {
-	
+
 /*----------UNIVERSAL STYLES----------*/
 
 	.container {
@@ -281,7 +281,7 @@
 
 	.intro-text {
 		text-align: center;
-	} 
+	}
 
 	.intro-slider-content {
 		position: absolute;
@@ -341,7 +341,7 @@
 	}
 
 	.process-section {
-		margin-right: 29px; 
+		margin-right: 29px;
 	}
 
 	.process-section_first {
@@ -469,7 +469,7 @@
 		float: left;
 		display: block;
 		margin-left: calc(50% - 93px / 2);
-		text-align: justify;
+		text-align: center;
 	}
 
 /*----------END HEADER STYLES----------*/
@@ -478,7 +478,7 @@
 
 	.intro-text {
 		text-align: center;
-	} 
+	}
 
 	.intro-slider {
 		display: none;
@@ -521,7 +521,7 @@
 	}
 
 	.process-section {
-		margin-right: 29px; 
+		margin-right: 29px;
 		margin-bottom: 30px;
 	}
 
