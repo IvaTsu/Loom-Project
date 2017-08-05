@@ -97,7 +97,7 @@
 
 .slick-prev {
 	z-index: 1;
-    left: 20px;
+  left: 20px;
 	background-image: url("../images/left_arrow.png");
 }
 
@@ -438,7 +438,7 @@
 
 .testimonials .slick-prev {
 	z-index: 0;
-    left: 0;
+  left: 0;
 	background-image: url("");
 }
 
