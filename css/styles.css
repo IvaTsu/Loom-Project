@@ -470,6 +470,15 @@
   height: 10px;
 }
 
+.testimonials .slick-dots li.slick-active button:before
+{
+	background-image: url("../images/nav_btn_active.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 10px;
+  height: 10px;
+}
+
 /*----------END TESTIMONIALS STYLES----------*/
 
 /*----------JOURNAL STYLES----------*/
